@@ -1,6 +1,5 @@
 # <p align="left"> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="63px"/>, I'm Jaishnav!</p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=CyberJalagam&&show_icons=true&&theme=tokyonight"/></p>
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberJalagam&theme=dark"/></p>
 
