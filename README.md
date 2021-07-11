@@ -22,7 +22,7 @@
 </p>
 
 <p>
-<img width="350px" align="left" src="https://github.com/CyberJalagam/CyberJalagam/blob/master/banner-company-trans-new.png" />
+<img width="340px" align="left" src="https://github.com/CyberJalagam/CyberJalagam/blob/master/banner-company-trans-new.png" />
 </p>
 
 <p>
@@ -31,21 +31,21 @@
 
 <br/>
  <a href="https://discord.gg/mjU5kf">
-   <img align="left" alt="Jaishnav's Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+   <img align="left" alt="Jaishnav's Discord" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
  </a>
  <a href="https://twitter.com/CyberJalagam">
-   <img align="left" alt="JAISHNAVPRASAD | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+   <img align="left" alt="JAISHNAVPRASAD | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
 <a href="https://t.me/CyberJalagam">
-   <img align="left" alt="Jaishnav's Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+   <img align="left" alt="Jaishnav's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
  </a>
 <a href="https://www.instagram.com/_cyberjalagam_/">
-   <img align="left" alt="Jaishnav's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+   <img align="left" alt="Jaishnav's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
  </a>
 <a href="https://www.youtube.com/MrMobTech/">
-   <img align="left" alt="Jaishnav's YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+   <img align="left" alt="Jaishnav's YouTube" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
  </a>  
 <a href="https://forum.xda-developers.com/member.php?u=10857311/">
-   <img align="left" alt="Jaishnav's XDA" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
+   <img align="left" alt="Jaishnav's XDA" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/xdadevelopers.svg" />
  </a>
 <br/>
