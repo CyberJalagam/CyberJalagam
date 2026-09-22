@@ -1,13 +1,5 @@
 # <p align="center"> Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="63px"/>, I'm Jaishnav!</p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=CyberJalagam&show_icons=true&theme=radical&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CyberJalagam&theme=radical">
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=CyberJalagam&theme=redical">
-</p>  
-
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberjalagam&style=flat-square" alt="cyberjalagam" /> </p>
 <p align="left"> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCyberJalagam&longCache=true"/> </p>
